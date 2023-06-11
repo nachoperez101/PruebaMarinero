@@ -7,19 +7,19 @@ preguntas = [
     ['¿Qué luz debe llevar una embarcación en la banda de babor?','Una luz roja.'],
     ['¿Qué arco de horizonte visible debe tener la luz de tope?','225° repartidos desde la proa, 112°5’ a cada banda.'],
     ['¿Qué arco de horizonte visible deben tener las luces de banda?','112°5 desde la proa.'],
-    [`¿Qué alcance lumínico deben tener la luz de tope? en buques de:\n
-    a. 50 o más metros de eslora
-    b. Entre 20 y 50 metros de eslora
-    c. Entre 12 y 20 metros de eslora
-    d. Menos de 12 metros de eslora`,`a. 6 millas.
-    b. 5 millas.
-    c. 3 millas.
+    [`¿Qué alcance lumínico deben tener la luz de tope? en buques de:<br/>
+    a. 50 o más metros de eslora<br/>
+    b. Entre 20 y 50 metros de eslora<br/>
+    c. Entre 12 y 20 metros de eslora<br/>
+    d. Menos de 12 metros de eslora`,`a. 6 millas.<br/>
+    b. 5 millas.<br/>
+    c. 3 millas.<br/>
     d. 2 millas.`],
-    [`¿Qué alcance lumínico debe tener las luces de banda de un buque de:
-    a. 50 o mas metros de eslora
-    b. Entre 12 y 50 metros de eslora
-    c. Menos de 12 metros de eslora`,`a. 3 millas.
-    b. 2 millas.
+    [`¿Qué alcance lumínico debe tener las luces de banda de un buque de:<br/>
+    a. 50 o mas metros de eslora<br/>
+    b. Entre 12 y 50 metros de eslora<br/>
+    c. Menos de 12 metros de eslora`,`a. 3 millas.<br/>
+    b. 2 millas.<br/>
     c. 1 millas.`],
     ['¿Qué luces adicionales deberá llevar un buque que realice tareas de remolque siendo la longitud de este menor a 183 metros?','Dos luces blancas verticales.'],
     ['¿Qué luces adicionales deberá llevar un buque que realiza tareas de remolque, siendo la longitud de este superior a 183 metros?','3 luces blancas verticales.'],
@@ -50,17 +50,17 @@ preguntas = [
     ['¿Cuál es la duración aproximada de un destello?','1 segundo'],
     ['¿Cuál es el intervalo entre destello y destello?','1 segundo'],
     ['¿Cuál es el intervalo entre señales sucesivas?','No menor de 10 segundos'],
-    ['Cuándo dos embarcaciones se encuentran a la vista en un paso o canal angosto ¿qué señales deberá realizar el buque que pretende alcanzar a otro?',`a. Dos pitadas largas seguidas de una corta significan pretendo alcanzarle por su banda de estribor
+    ['Cuándo dos embarcaciones se encuentran a la vista en un paso o canal angosto ¿qué señales deberá realizar el buque que pretende alcanzar a otro?',`a. Dos pitadas largas seguidas de una corta significan pretendo alcanzarle por su banda de estribor<br/>
     b. Dos pitadas largas seguidas de dos cortas significan pretendo alcanzarle por su banda de babor`],
     ['¿Qué señal deberá realizar todo buque que no entiende las intenciones del otro?','5 pitadas cortas y rápidas'],
     ['¿Qué señal deberá realizar un buque navegando en zona de visibilidad reducida?','Una pitada larga cada dos minutos'],
     ['¿Qué señal s deberán realizar los buques sin gobierno, pesqueros, veleros con capacidad de maniobra reducida o todo buque remolcado cuando navega en zona de visibilidad reducida?','1 pitada larga seguida de dos corta con un intervalo de 2 minutos.'],
     ['¿Qué señal sonora deberá realizar todo buque fondeado en zona de visibilidad reducida?','Repiques de campana con una duración de 5 segundos con un intervalo de más de un minuto'],
     ['¿Qué es la velocidad de seguridad?','Es la que permite efectuar la maniobra adecuada y eficaz para evitar un abordaje'],
-    ['¿Qué elementos se deberán tener en cuenta para determinar la velocidad de Seguridad?',`1) Visibilidad;
-    2) Densidad del trafico;
-    3) Maniobrabilidad del buque;
-    4) Estado del viento, mar y corriente;
+    ['¿Qué elementos se deberán tener en cuenta para determinar la velocidad de Seguridad?',`1) Visibilidad;<br/>
+    2) Densidad del trafico;<br/>
+    3) Maniobrabilidad del buque;<br/>
+    4) Estado del viento, mar y corriente;<br/>
     5) Calado con relación a la profundidad`],
     ['¿Cómo determina que existe riesgo de colisión cuando dos buques navegan en rumbo encontrados?','Si la marcación al buque que se aproxima es constante o sin variación, apreciable.'],
     ['¿Cómo debe ser realizada una buena maniobra para evitar un abordaje?','Deberá ser realizada de tal forma que los buques pasen a distancia segura'],
@@ -81,9 +81,9 @@ preguntas = [
     ['¿Cómo determina en horas del día que dos buques están en situación de vuelta encontrada?','Cuando por la proa se ven enfilados los palos del otro buque'],
     ['¿Qué deberá hacer si tiene dudas de que existe una situación de vuelta encontrada?','Precederá como si fuera una situación de vuelta encontrada.'],
     ['Cuando dos buques se crucen con riesgo de colisión, ¿cuál de los dos deberá mantenerse apartado de la derrota del otro?','El buque que tenga el otro por su banda de estribor deberá gobernar para mantener apartado de la derrota del otro.'],
-    ['¿De que buque se mantendrán apartado las embarcaciones en navegación libre con propulsión mecánica?',`a. De un buque sin gobierno
-    b. De un buque con capacidad de maniobra limitada
-    c. De un buque dedicado a la pesca
+    ['¿De que buque se mantendrán apartado las embarcaciones en navegación libre con propulsión mecánica?',`a. De un buque sin gobierno<br/>
+    b. De un buque con capacidad de maniobra limitada<br/>
+    c. De un buque dedicado a la pesca<br/>
     d. De un buque a vela`],
     ['Reducir la velocidad a la de seguridad y realizar las señales correspondientes','¿Qué precauciones deberá tomar toda embarcación navegando en zona de visibilidad reducida?'],
     ['¿Qué indica una boya de luz blanca con grupos de destellos y como esta pintada a su reconocimiento diurno?','Indican casco a pique y están pintadas con una o más franjas rojas, siendo su marca de tope 2 esferas negras superpuestas'],
@@ -93,7 +93,7 @@ preguntas = [
     ['¿Cómo pueden ser las boyas por sus características luminosas?','Destellos, fija, de ocultación, isofásica, centelleante'],
     ['¿De donde se pueden extraer las características de los faros?','De las cartas náuticas las cuales dan las características lumínicas y los datos de alcance en millas y altura del faro; de los derroteros y listas de faros'],
     ['¿Qué normas debe seguirse para el estudio de una derrota','Estudiar la derrota en la carta poniendo especial atención en que esta no pase sobre peligros a la navegación'],
-    ['¿Qué precauciones deberán tomar para realizar una entrada o salida a puerto?',`a. Para salir de puerto, deberá observar si este está abierto o cerrado si tiene salida libre hacerlo con velocidad de seguridad.
+    ['¿Qué precauciones deberán tomar para realizar una entrada o salida a puerto?',`a. Para salir de puerto, deberá observar si este está abierto o cerrado si tiene salida libre hacerlo con velocidad de seguridad.<br/>
     b. Para entrar, si tiene entrada libre, hacerlo con velocidad de seguridad`],
     ['¿Qué es un fondeadero?','Es aquel que asegura una buena protección para los vientos predominantes y además su fondo es un buen tenedero'],
     ['¿Cuántas veces el fondo es conveniente fondear de cadena?','Por lo menos 3 veces el fondo determinado'],
@@ -109,8 +109,8 @@ preguntas = [
     ['¿Por debajo de que valores la presión atmosférica puede indicar un cambio sensible en las condiciones meteorológicas?','Cuando la presión desciende por debajo de los 760 mm'],
     ['La persistencia de un viento de dirección norte, ¿qué trae generalmente aparejado?','La entrada de un frente frío con aporte de vientos fuertes del sector Sur'],
     ['¿Cuáles son los tres elementos que determinan un incendio?','Combustible, aire y calor'],
-    ['¿Cuáles son las tres clases de incendio?',`a. Clase A combustibles sólidos
-    b. Clase B combustibles líquidos
+    ['¿Cuáles son las tres clases de incendio?',`a. Clase A combustibles sólidos<br/>
+    b. Clase B combustibles líquidos<br/>
     c. Clase C materiales eléctricos`],
     ['¿Qué tipo de extintor debe usarse preferentemente en un incendio de combustibles sólidos?','Chorro de agua'],
     ['¿Qué tipo de extintor debe usarse preferentemente en un incendio de combustibles líquidos?','Espuma mecánica'],

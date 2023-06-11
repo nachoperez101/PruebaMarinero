@@ -103,7 +103,7 @@ preguntas = [
 ]
 
 function preguntaNueva(){
-    let i = Math.floor(Math.random() * 50);
+    let i = Math.floor(Math.random() * 100);
     let Q = preguntas[i][0];
     A = preguntas[i][1];
 

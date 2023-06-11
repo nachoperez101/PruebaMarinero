@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pueba MarineroWalsh</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="Prueba.css">
+    <script src="Prueba.js"></script>
+</head>
+<body>
+    <main>
+        <div class="container" style="padding-top: 5%; width: 90%;">
+            <div class="row">
+                <div class="col-lg-2">
+                    <button type="button" class="btn btn-lg" style="margin-top: 7%; background-color: rgb(222, 222, 222);" onclick="preguntaNueva()">Nueva Pregunta</button>
+                    <button type="button" class="btn btn-lg" style="margin-top: 20%; background-color: rgb(222, 222, 222);" onclick="revelarRespuesta()">Revelar Respuesta</button>
+                </div>
+                <div class="col-lg-4" style="margin-right: 5%;">
+                    <h1 style="color: rgb(215, 215, 215);">Pregunta</h1>
+                    <div class="container img-rounded" style="background-color: rgb(215, 215, 215); width: auto;">
+                        <h2 id="preg"></h2>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <h1 style="color: rgb(215, 215, 215);">Respuesta</h1>
+                    <div class="container img-rounded" style="background-color: rgb(215, 215, 215); width: auto;">
+                        <h2 id="resp"></h2>
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </main>
+</body>
+</html>

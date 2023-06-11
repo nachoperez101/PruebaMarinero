@@ -1,4 +1,6 @@
 let A = 0;
+let preguntado = new Array(100).fill(false);
+console.log('V4');
 preguntas = [
     ['¿Cuál es la luz reglamentaria de tope?','Es una luz blanca.'],
     ['¿Qué luz debe llevar una embarcación en la banda de estribor?','Una luz verde.'],
@@ -127,6 +129,13 @@ preguntas = [
 
 function preguntaNueva(){
     let i = Math.floor(Math.random() * 100);
+    if (preguntado.every(element => element === true)) {
+        preguntado.fill(false);
+    }
+    while (preguntado[i]) {
+        i = Math.floor(Math.random() * 100);
+    }
+    preguntado[i] = true;
     let Q = preguntas[i][0];
     A = preguntas[i][1];
 
@@ -139,7 +148,3 @@ function revelarRespuesta() {
         document.getElementById("resp").innerHTML = A;
     }
 }
-
-
-console.log(Q);
-console.log(A);

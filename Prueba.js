@@ -85,7 +85,7 @@ preguntas = [
     b. De un buque con capacidad de maniobra limitada<br/>
     c. De un buque dedicado a la pesca<br/>
     d. De un buque a vela`],
-    ['Reducir la velocidad a la de seguridad y realizar las señales correspondientes','¿Qué precauciones deberá tomar toda embarcación navegando en zona de visibilidad reducida?'],
+    ['¿Qué precauciones deberá tomar toda embarcación navegando en zona de visibilidad reducida?','Reducir la velocidad a la de seguridad y realizar las señales correspondientes'],
     ['¿Qué indica una boya de luz blanca con grupos de destellos y como esta pintada a su reconocimiento diurno?','Indican casco a pique y están pintadas con una o más franjas rojas, siendo su marca de tope 2 esferas negras superpuestas'],
     ['¿Qué indica una boya de luz blanca con un ritmo isofásico de ocultación o Morse “A”, y como está pintada para su reconocimiento diurno?','Indican aguas seguras y están pintadas con franjas verticales blancas y rojas con una esfera roja como marca de tope'],
     ['¿Qué indica una boya de luz blanca con un ritmo QOVQ y como esta pintada para su reconocimiento diurno?','Indica que las aguas mas profundas en la zona se encuentran en el cuadrante norte tomando como centro la boya y están pintadas de negro sobre amarillo con 2 conos negros superpuestos con los puntos hacia arriba'],
